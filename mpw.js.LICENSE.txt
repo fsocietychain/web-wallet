@@ -21,7 +21,7 @@
 /*!
  * The buffer module from node.js, for the browser.
  *
- * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
+ * @author   Feross Aboukhadijeh <feross@feross.org> <https://feross.org>
  * @license  MIT
  */
 
@@ -62,7 +62,7 @@
  * Date: 2023-08-28T13:37Z
  */
 
-/*! http://mths.be/fromcodepoint v0.2.1 by @mathias */
+/*! https://mths.be/fromcodepoint v0.2.1 by @mathias */
 
 /*! https://mths.be/codepointat v0.2.0 by @mathias */
 
