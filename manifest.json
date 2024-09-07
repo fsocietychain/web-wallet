@@ -1,6 +1,6 @@
 {
     "name": "My FSC Wallet",
-    "short_name": "MFW",
+    "short_name": "FSC",
     "start_url": ".",
     "description": "Send and Receive with FSC's most universal wallet. ",
     "orientation": "portrait",
