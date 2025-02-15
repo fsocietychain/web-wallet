@@ -1,8 +1,7 @@
 {
     "name": "My FSC Wallet",
     "short_name": "FSC",
-    "start_url": ".",
-    "description": "Send and Receive with FSC's most universal wallet. ",
+    "description": "Send and Receive with FSC's most universal wallet.",
     "categories": ["business", "finance"],
     "orientation": "portrait",
     "display": "standalone",
@@ -12,12 +11,14 @@
         {
             "src": "/512.png",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "any maskable"
         },
         {
             "src": "/192.png",
             "sizes": "192x192",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "any maskable"
         }
     ],
     "background_color": "#0e1075",
